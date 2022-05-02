@@ -1,0 +1,16 @@
+{
+    "name": "StorageServices",
+    "rootNamespace": "",
+    "references": [
+        "RESTClient"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
